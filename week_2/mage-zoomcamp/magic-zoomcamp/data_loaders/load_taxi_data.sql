@@ -1,0 +1,1 @@
+SELECT DISTINCT VendorID FROM ny_taxi.green_cab_data_q4_2020

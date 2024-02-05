@@ -5,3 +5,4 @@ week_1/terraform/.terraform.lock.hcl
 week_1/terraform/.terraform/providers/registry.terraform.io/hashicorp/google/5.6.0/darwin_amd64/terraform-provider-google_v5.6.0_x5
 week_1/terraform/.terraform/providers/registry.terraform.io/hashicorp/google/4.51.0/darwin_amd64/terraform-provider-google_v4.51.0_x5
 week_1/terraform/terraform.tfstate
+week_2/mage-zoomcamp/titanic_clean.csv
