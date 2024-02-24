@@ -1,0 +1,17 @@
+
+week_1/green_tripdata_2019-09.csv
+week_1/terraform/terraform.tfstate.backup
+week_1/terraform/.terraform.lock.hcl
+week_1/terraform/.terraform/providers/registry.terraform.io/hashicorp/google/5.6.0/darwin_amd64/terraform-provider-google_v5.6.0_x5
+week_1/terraform/.terraform/providers/registry.terraform.io/hashicorp/google/4.51.0/darwin_amd64/terraform-provider-google_v4.51.0_x5
+week_1/terraform/terraform.tfstate
+week_2/mage-zoomcamp/titanic_clean.csv
+data_ingestion_workshop/dlt_ipykernel_launcher.duckdb
+data_ingestion_workshop/.ipynb_checkpoints/homework_starter-checkpoint.ipynb
+
+# Default .gitignore content added by dbt Cloud# you shouldn't commit these into source control
+# these are the default directory names, adjust/add to fit your needs
+target/
+dbt_packages/
+logs/
+# end dbt Cloud content
